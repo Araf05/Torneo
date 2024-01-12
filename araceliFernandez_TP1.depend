@@ -1,0 +1,231 @@
+# depslib dependency file v1.0
+1696510175 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\main.cpp
+	<iostream>
+	"menuJugadores.h"
+	"menuDeportes.h"
+	"reportes.h"
+	"menuConfiguraciones.h"
+
+1696289752 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\jugador.h
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Funciones_Globales.h"
+
+1696296565 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\jugador.cpp
+	"Jugador.h"
+
+1695162760 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\archivo.cpp
+	"Archivo.h"
+
+1695165521 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\archivo.h
+
+1694573308 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1696296095 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<ctime>
+
+1696273304 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\fecha.h
+
+1696366601 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\menujugadores.h
+	"Fecha.h"
+	"JugadoresDat.h"
+	"DeportesDat.h"
+
+1695931058 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\interfaz.h
+	<iostream>
+
+1696301450 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\jugadoresdat.h
+	"Jugador.h"
+
+1696509619 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\jugadoresdat.cpp
+	"JugadoresDat.h"
+
+1696366470 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\resolucion.h
+	"Jugador.h"
+	"JugadoresDat.h"
+	"Deporte.h"
+
+1696295453 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\deporte.cpp
+	"Deporte.h"
+
+1696285750 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\deporte.h
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Funciones_Globales.h"
+
+1695930704 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\funcionesglobales.h
+	<iostream>
+
+1695930972 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\interfaz.cpp
+	"Interfaz.h"
+
+1696289710 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\funciones_globales.h
+
+1696302026 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\deportesdat.cpp
+	"DeportesDat.h"
+
+1696302024 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\deportesdat.h
+	"Deporte.h"
+
+1696366625 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\menudeportes.h
+	"Fecha.h"
+	"DeportesDat.h"
+
+1696200797 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\validaciones.h
+	"Fecha.h"
+	"JugadoresDat.h"
+	"DeportesDat.h"
+
+1696284201 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\validaciones.cpp
+	"Validaciones.h"
+
+1696509222 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\menuconfiguraciones.h
+	"JugadoresDat.h"
+	"DeportesDat.h"
+
+1696512840 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1\reportes.h
+	"JugadoresDat.h"
+	"DeportesDat.h"
+
+1696295453 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\deporte.cpp
+	"Deporte.h"
+
+1696285750 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\deporte.h
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Funciones_Globales.h"
+
+1696273304 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\fecha.h
+
+1696289710 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\funciones_globales.h
+
+1696302026 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\deportesdat.cpp
+	"DeportesDat.h"
+
+1696302024 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\deportesdat.h
+	"Deporte.h"
+
+1696296095 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<ctime>
+
+1696296565 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\jugador.cpp
+	"Jugador.h"
+
+1696289752 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\jugador.h
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Funciones_Globales.h"
+
+1696509619 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\jugadoresdat.cpp
+	"JugadoresDat.h"
+
+1696301450 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\jugadoresdat.h
+	"Jugador.h"
+
+1696510175 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\main.cpp
+	<iostream>
+	"menuJugadores.h"
+	"menuDeportes.h"
+	"reportes.h"
+	"menuConfiguraciones.h"
+
+1696366601 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\menujugadores.h
+	"Fecha.h"
+	"JugadoresDat.h"
+	"DeportesDat.h"
+
+1696366625 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\menudeportes.h
+	"Fecha.h"
+	"DeportesDat.h"
+
+1698183009 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\reportes.h
+	"JugadoresDat.h"
+	"DeportesDat.h"
+
+1696509222 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1error\menuconfiguraciones.h
+	"JugadoresDat.h"
+	"DeportesDat.h"
+
+1696295453 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\deporte.cpp
+	"Deporte.h"
+
+1696285750 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\deporte.h
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Funciones_Globales.h"
+
+1696273304 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\fecha.h
+
+1696289710 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\funciones_globales.h
+
+1696302026 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\deportesdat.cpp
+	"DeportesDat.h"
+
+1696302024 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\deportesdat.h
+	"Deporte.h"
+
+1696296095 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\fecha.cpp
+	"Fecha.h"
+	<iostream>
+	<ctime>
+
+1696296565 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\jugador.cpp
+	"Jugador.h"
+
+1696289752 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\jugador.h
+	<iostream>
+	<cstring>
+	"Fecha.h"
+	"Funciones_Globales.h"
+
+1696509619 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\jugadoresdat.cpp
+	"JugadoresDat.h"
+
+1696301450 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\jugadoresdat.h
+	"Jugador.h"
+
+1696510175 source:c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\main.cpp
+	<iostream>
+	"menuJugadores.h"
+	"menuDeportes.h"
+	"reportes.h"
+	"menuConfiguraciones.h"
+
+1696366601 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\menujugadores.h
+	"Fecha.h"
+	"JugadoresDat.h"
+	"DeportesDat.h"
+
+1696366625 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\menudeportes.h
+	"Fecha.h"
+	"DeportesDat.h"
+
+1698183009 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\reportes.h
+	"JugadoresDat.h"
+	"DeportesDat.h"
+
+1696509222 c:\users\noe_3\desktop\lab ii\aracelifernandez_tp1_de_prueba\menuconfiguraciones.h
+	"JugadoresDat.h"
+	"DeportesDat.h"
+

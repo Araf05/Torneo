@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="araceliFernandez_TP1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/araceliFernandez_TP1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="../araceliFernandez_TP1" />
+					<Add directory="PR II/PracticaParcialPRII" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/araceliFernandez_TP1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="../araceliFernandez_TP1" />
+					<Add directory="PR II/PracticaParcialPRII" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Deporte.cpp" />
+		<Unit filename="Deporte.h" />
+		<Unit filename="DeportesDat.cpp" />
+		<Unit filename="DeportesDat.h" />
+		<Unit filename="Fecha.cpp" />
+		<Unit filename="Fecha.h" />
+		<Unit filename="Funciones_Globales.h" />
+		<Unit filename="Jugador.cpp" />
+		<Unit filename="Jugador.h" />
+		<Unit filename="JugadoresDat.cpp" />
+		<Unit filename="JugadoresDat.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menuConfiguraciones.h" />
+		<Unit filename="menuDeportes.h" />
+		<Unit filename="menuJugadores.h" />
+		<Unit filename="practicaMemoriaDinamica.h" />
+		<Unit filename="reportes.h" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
